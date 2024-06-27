@@ -1,4 +1,4 @@
-# movies_auth_service
+# Flask movies auth service
 Service for Online cinema users authorisation
 
 ## Start app
